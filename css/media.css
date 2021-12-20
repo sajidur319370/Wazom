@@ -1,0 +1,457 @@
+        /*============ extra small device============== */
+        
+        @media(max-width:575.98px) {
+            .navbar-brand img {
+                width: 100px;
+            }
+            .navbar-toggler i {
+                color: #ffffff;
+                font-size: 28px;
+            }
+            .navbar-toggler:focus {
+                box-shadow: none;
+            }
+            .navbar-nav {
+                background: rgb(71, 65, 65);
+                text-align: center;
+                margin-top: 15px;
+            }
+            .banner-item h3 {
+                font-size: 16px;
+            }
+            .banner-item h1 {
+                font-size: 24px;
+                padding-bottom: 5px;
+            }
+            .banner-item p {
+                font-size: 16px;
+                line-height: 20px;
+                padding-bottom: 20px;
+            }
+            .banner-item a {
+                padding: 12px 20px;
+                font-size: 12px;
+            }
+            #banner {
+                height: 50vh;
+            }
+            .banner-content-slider {
+                height: 50vh;
+            }
+            #service {
+                padding: 30px 0;
+            }
+            #mockup {
+                background-color: #fbfaf8;
+                padding-top: 35px;
+            }
+            .heading h3 {
+                font-size: 20px;
+                line-height: 24px;
+            }
+            .heading p {
+                font-size: 14px;
+                line-height: 24px;
+            }
+            .mockup-img img {
+                height: 115px;
+            }
+            .purchase-left h3 {
+                font-size: 18px;
+                line-height: 24px;
+            }
+            .purchase-left {
+                text-align: center;
+            }
+            .purchase-left p {
+                font-size: 15px;
+                line-height: 20px;
+            }
+            .button-right {
+                text-align: center !important;
+            }
+            .button-right a {
+                padding: 12px 18px;
+            }
+            #project {
+                padding: 28px 0;
+            }
+            button.btn {
+                padding: 5px 10px;
+                margin: 5px 5px;
+            }
+            .button {
+                text-align: center;
+            }
+            #video {
+                padding-top: 85px;
+                padding-bottom: 35px;
+            }
+            .vedio-text h3 {
+                line-height: 40px;
+            }
+            .vedio-text p {
+                line-height: 24px;
+            }
+            .mobile-feat {
+                margin-left: 25px;
+            }
+            .mobile-text {
+                padding-top: 70px;
+            }
+            .mobile-text h2 {
+                text-align: center;
+                line-height: 36px;
+            }
+            .mobile-text p {
+                line-height: 24px;
+                padding: 0px 50px;
+            }
+            .mobile-feat p {
+                font-size: 14px;
+                line-height: 20px;
+            }
+            #counter {
+                padding-top: 30px;
+                padding-bottom: 50px;
+            }
+            .counter-item h3 {
+                font-size: 24px;
+                padding-bottom: 10px;
+            }
+            .counter-item p::after {
+                top: 30px;
+            }
+            .counter-item p {
+                padding-bottom: 35px;
+            }
+            .counter-item img {
+                padding-bottom: 15px;
+            }
+            #blog {
+                padding-top: 40px;
+                padding-bottom: 20px;
+            }
+            .blog-item-text {
+                text-align: center;
+                padding: 20px 20px;
+            }
+            .blog-item-text p {
+                padding: 0 10px;
+                margin-right: 0px;
+            }
+            .row-icon {
+                padding-top: 20px;
+            }
+            #brand {
+                padding: 50px 50px;
+            }
+            #footer {
+                background-color: #191919;
+                padding: 30px 0;
+            }
+            .footer-item {
+                text-align: center;
+                padding-top: 50px;
+            }
+            .footer-item .xtra3 {
+                padding: 50px 20px 20px 15px;
+            }
+            .copyright-left {
+                display: block;
+            }
+            .copyright-left p {
+                text-align: center;
+            }
+            .copyright-left ul {
+                margin-left: 10px;
+            }
+            .copyright-right {
+                display: flex;
+                text-align: center !important;
+            }
+            .copyright-right p {
+                padding-left: 0;
+            }
+            .copyright-left ul li:first-child:after {
+                display: none;
+            }
+        }
+        /* ==============small device================= */
+        
+        @media (min-width:576px) and (max-width:767.98px) {
+            .navbar-brand img {
+                width: 100px;
+            }
+            .navbar-toggler i {
+                color: #ffffff;
+                font-size: 28px;
+            }
+            .navbar-toggler:focus {
+                box-shadow: none;
+            }
+            .navbar-nav {
+                background: rgb(71, 65, 65);
+                text-align: center;
+                margin-top: 15px;
+            }
+            .banner-item h3 {
+                font-size: 16px;
+            }
+            .banner-item h1 {
+                font-size: 24px;
+                padding-bottom: 5px;
+            }
+            .banner-item p {
+                font-size: 16px;
+                line-height: 20px;
+                padding-bottom: 20px;
+            }
+            .banner-item a {
+                padding: 10px 16px;
+                font-size: 12px;
+            }
+            .banner-item h1 {
+                font-size: 22px;
+            }
+            .banner-item p {
+                font-size: 14px;
+            }
+            #banner {
+                height: 50vh;
+            }
+            .banner-content-slider {
+                height: 50vh;
+            }
+            #service {
+                padding: 30px 0;
+            }
+            .service-item h3 {
+                font-size: 16px;
+            }
+            .service-item p {
+                font-size: 12px;
+            }
+            #mockup {
+                padding-top: 45px;
+            }
+            .heading h3 {
+                font-size: 24px;
+            }
+            .heading p {
+                font-size: 14px;
+                line-height: 24px;
+            }
+            .mockup-img img {
+                height: 200px;
+            }
+            .purchase-left {
+                text-align: center;
+                width: 526px;
+            }
+            .purchase-left h3 {
+                line-height: 40px;
+                font-size: 24px;
+            }
+            .purchase-left p {
+                line-height: 24px;
+                font-size: 16px;
+            }
+            .button-right {
+                text-align: center !important;
+            }
+            .button-right a {
+                font-size: 12px;
+                padding: 10px 14px;
+            }
+            button.btn {
+                padding: 6px 10px;
+            }
+            #project {
+                padding: 50px 0;
+            }
+            .project-info h3 {
+                font-size: 16px;
+            }
+            .project-info p {
+                font-size: 12px;
+            }
+            .view-button a {
+                font-size: 12px;
+                padding: 16px 28px;
+            }
+            .view-button {
+                padding-top: 20px;
+            }
+            #video {
+                padding-top: 70px;
+                padding-bottom: 90px;
+            }
+            .vedio-text h3 {
+                font-size: 22px;
+            }
+            .vedio-text p {
+                font-size: 12px;
+            }
+            .mobile-feat {
+                margin-left: 0px;
+            }
+            .mobile-text h2 {
+                padding-bottom: 10px;
+                font-size: 26px;
+            }
+            .mobile-text p {
+                font-size: 14px;
+            }
+            .mobile-feat p {
+                font-size: 14px;
+                line-height: 24px;
+            }
+            .mobile-feat i {
+                margin-right: 16px;
+            }
+            #counter {
+                padding-top: 40px;
+            }
+            .counter-item img {
+                padding-bottom: 14px;
+                padding-top: 80px;
+            }
+            .counter-item h3 {
+                font-size: 30px;
+            }
+            .counter-item p {
+                font-size: 12px;
+            }
+            .counter-item p::after {
+                top: 28px;
+            }
+            .blog-text h3 {
+                font-size: 28px;
+            }
+            .blog-text p {
+                font-size: 14px;
+            }
+            .blog-item-text h3 {
+                padding-top: 22px;
+                padding-bottom: 13px;
+                font-size: 18px;
+            }
+            .blog-item-text p {
+                font-size: 12px;
+                padding-bottom: 0px;
+            }
+            #footer {
+                padding: 40px 0;
+            }
+            .copyright-right {
+                justify-content: center;
+            }
+            .copyright-left {
+                justify-content: center;
+                padding-left: 50px;
+            }
+        }
+        /*===========medium device====================*/
+        
+        @media (min-width:768px) and (max-width:991.98px) {
+            .navbar-toggler i {
+                color: #ffffff;
+                font-size: 28px;
+            }
+            .navbar-toggler:focus {
+                box-shadow: none;
+            }
+            .navbar-nav {
+                background: rgb(71, 65, 65);
+                text-align: center;
+                margin-top: 15px;
+                height: 330px;
+            }
+            .mockup-img img {
+                height: 375px;
+            }
+            .purchase-left h3 {
+                font-size: 22px;
+            }
+            .purchase-left p {
+                font-size: 16px;
+            }
+            .button-right a {
+                font-size: 14px;
+                padding: 16px 28px;
+            }
+            .view-button a {
+                padding: 12px 26px;
+            }
+            .mobile-img {
+                padding-top: 203px;
+            }
+            .mobile-text {
+                padding-top: 0px;
+            }
+            .mobile-feat {
+                padding-top: 30px;
+                margin-left: 0;
+            }
+            .mobile-feat p {
+                line-height: 24px;
+            }
+            #blog {
+                padding-top: 50px;
+                padding-bottom: 40px;
+            }
+            .blog-item-text h3 {
+                line-height: 24px;
+            }
+            .slick-slide img {
+                width: 80%;
+            }
+            #brand {
+                padding: 70px 0;
+            }
+            #footer {
+                padding: 20px 0;
+            }
+            #copyright {
+                padding-top: 30px;
+                padding-bottom: 20px;
+            }
+            .copyright-left {
+                justify-content: center;
+                padding-left: 50px;
+            }
+            .copyright-right {
+                justify-content: center;
+            }
+        }
+        /*===================== large device===========*/
+        
+        @media (min-width:992px) and (max-width:1199.98px) {
+            .banner-item {
+                padding-top: 120px;
+                padding-bottom: 60px;
+            }
+            .banner-item h1 {
+                font-size: 40px;
+            }
+            .banner-item h3 {
+                font-size: 30px;
+            }
+            .banner-item a {
+                padding: 14px 28px;
+            }
+            .mobile-feat {
+                margin-left: 0px;
+            }
+            .mobile-feat p {
+                line-height: 24px;
+            }
+        }
+        /*=============extra large device===========*/
+        
+        @media (min-width:1200px) and (max-width:1399.98px) {
+            .banner-item {
+                padding-top: 80px;
+            }
+        }
